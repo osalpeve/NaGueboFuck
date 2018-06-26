@@ -4,7 +4,10 @@ NagueboFuck
 ¿Alguna vez quisiste programar con insultos?, !PUES AHORA PUEDES!
 ***
 
-Adaptación del lenguaje de Programación BrainFuck con un toque venezolano.
+Adaptación del lenguaje de Programación [BrainFuck](https://es.wikipedia.org/wiki/Brainfuck) con un toque venezolano.
+
+
+
 
 
 | Sentencia   |Equivalente| Significado                                                                                                                |
