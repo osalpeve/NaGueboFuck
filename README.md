@@ -4,8 +4,13 @@ NagueboFuck
 ¿Alguna vez quisiste programar con insultos?, !PUES AHORA PUEDES!
 ***
 
-Adaptación del lenguaje de Programación [BrainFuck](https://es.wikipedia.org/wiki/Brainfuck) con un toque venezolano.
+NagueboFuck es el primer lenguaje de programación desarrollado por y para venezolanos, es una adaptación de [BrainFuck](https://es.wikipedia.org/wiki/Brainfuck).
 
+### Cosas por hacer
+
+- [ ] Interfaz Gráfica
+- [ ] Versión web
+- [ ] La tesis
 
 
 
